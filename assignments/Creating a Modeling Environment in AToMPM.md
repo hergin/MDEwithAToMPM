@@ -1,5 +1,3 @@
-**BEFORE MIDNIGHT: SUBMIT THE SCREENSHOTS OF YOUR METAMODEL, CONCRETE SYNTAX and SCREENSHOT OF YOUR ENVIRONMENT (THE SAMPLE MOVIE IN YOUR ENVIRONMENT).**
-
 You should install ATomPM for this exercise: [Install](../AToMPM&#32;Installation.md)
 
 ![imdb MM](../images/IMDB-simple-1.png)
