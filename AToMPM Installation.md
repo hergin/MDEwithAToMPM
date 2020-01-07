@@ -15,6 +15,12 @@ There are three ways to install AToMPM (that I have tried and tested).
 *   Unzip it somewhere
 *   Run AToMPM.bat file.
 
+## MAC & Linux Instructions
+
+There is official installation instructions in the main repository of AToMPM. Check it [here](https://github.com/AToMPM/atompm) if none of the methods above work for you.
+
+* BE CAREFUL: In the **download source** step of the official instructions, download the source code from the releases link of the repository.
+
 ## Using Vagrant (Any OS)
 
 *   Clone this repository:
@@ -25,8 +31,4 @@ There are three ways to install AToMPM (that I have tried and tested).
 ## After running it:
 
 *   (If not automatically opens)
-    *   Browse to [http://localhost:8124/atompm](http://localhost:8124/atompm) and do the transformation check: [Week 13 - AToMPM Transformation Check](https://bsu.instructure.com/courses/85755/pages/week-13-atompm-transformation-check "Week 13 - AToMPM Transformation Check")
-
-## Official Instructions
-
-There is also official installation instructions in the main repository of AToMPM. Check it [here](https://github.com/AToMPM/atompm) if none of the methods above work for you.
+    *   Browse to [http://localhost:8124/atompm](http://localhost:8124/atompm) and do the transformation check: [AToMPM Transformation Check](AToMPM&#32;Transformation&#32;Check.md "AToMPM Transformation Check")
