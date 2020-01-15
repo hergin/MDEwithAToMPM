@@ -17,7 +17,7 @@ In this class exercise, you will clear out a peg solitaire board.
     *   **/Formalisms/PegSolitaire/icons/cell.png**
 *   Open the **PegSolitaireBoard.model** in AToMPM
 *   You should see the board below:
-    *   ![PegSolitaireBoard](../files/PegSolitaireBoard.png)
+    *   ![PegSolitaireBoard](../images/PegSolitaireBoard.png)
 *   Green circles are the pegs.
 *   Brown squares with holes are the cells.
 
@@ -26,7 +26,7 @@ In this class exercise, you will clear out a peg solitaire board.
 *   The rules of the peg solitaire is simple.
     *   One peg can jump over another peg as long as it ends up at an empty cell.
 *   Here is how they move:
-    *   ![move](../files/peg_solitaire_move.gif)
+    *   ![move](../images/peg_solitaire_move.gif)
 *   You can try yourself here:
     *   [http://www.webgamesonline.com/peg-solitaire/](http://www.webgamesonline.com/peg-solitaire/)
 
@@ -36,13 +36,13 @@ In this class exercise, you will clear out a peg solitaire board.
 *   Write the corresponding transformation that runs this rule inside an ARule.
 *   Execute it.
 *   You should end up something like this:
-    *   ![after first jump](../files/After_jump.png)
+    *   ![after first jump](../images/After_jump.png)
 
 ### Clear out the board (XXXX)
 
 *   Write rules to jump on all 4 sides
 *   Randomly run until failure with a BSRule.
-    *   ![bsrule](../files/bsrule.png)
+    *   ![bsrule](../images/bsrule.png)
 *   This should clear out the board as much as possible.
 *   See an example run below:
-    *   ![random](../files/random_clearing.gif)
+    *   ![random](../images/random_clearing.gif)

@@ -6,6 +6,10 @@
 
 *   Double check that every rule has a reference and has the correct name in the transformation file.
 
+### Another 500 Error When Loading a Trafo
+
+*   Double check you have started the transformation engine (**python mt/main.py**) under the main atompm folder instead of mt folder.
+
 ### Use of Pattern Metamodel in Rules
 
 *   In rules, you MUST use the pattern metamodel (and toolbar in that sense) to create the pattern in the precondition, postcondition and NACs.
