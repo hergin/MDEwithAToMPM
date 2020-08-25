@@ -4,6 +4,7 @@ You should install ATomPM for this exercise: [Install](../AToMPM&#32;Installatio
 
 ### Create a metamodel
 
+*   Open a new instance of AToMPM
 *   Load the toolbar: **/Formalisms/__LanguageSyntax__/SimpleClassDiagram/SimpleClassDiagram.umlIcons.metamodel**
 *   Design the metamodel
 *   Save the metamodel file: **/Formalisms/IMDB/IMDB_MM.model**
