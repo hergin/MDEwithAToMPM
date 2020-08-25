@@ -7,6 +7,7 @@ You should install ATomPM for this exercise: [Install](../AToMPM&#32;Installatio
 *   Open a new instance of AToMPM
 *   Load the toolbar: **/Formalisms/__LanguageSyntax__/SimpleClassDiagram/SimpleClassDiagram.umlIcons.metamodel**
 *   Design the metamodel
+*   To open attribute editor of a class, either middle-click or select with mouse and press INSERT button.
 *   Save the metamodel file: **/Formalisms/IMDB/IMDB_MM.model**
 
 ### Create concrete syntax
