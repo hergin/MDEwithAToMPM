@@ -11,7 +11,7 @@ There are three ways to install AToMPM (that I have tried and tested).
 ## Portable with Python3 (Windows)
 
 *   Download the zip file from this link:
-    *   [https://github.com/AToMPM/atompm/releases/download/v0.8.1/atompm-portable-python3.zip](https://github.com/AToMPM/atompm/releases/download/v0.8.1/atompm-portable-python3.zip)
+    *   [https://github.com/AToMPM/atompm/releases/download/v0.8.5/atompm-portable.zip](https://github.com/AToMPM/atompm/releases/download/v0.8.5/atompm-portable.zip)
 *   Unzip it somewhere
 *   Run AToMPM.bat file.
 
