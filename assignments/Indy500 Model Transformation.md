@@ -1,8 +1,8 @@
-In this in-class exercise, we will move our car on the roads we have designed last week.
+In this exercise, we will move our car on the roads we have designed. To understand how model transformation works further, check this link: https://atompm.readthedocs.io/en/latest/modelling_transformation.html
 
 ### Indy500 Modeling Environment (X)
 
-*   This assignment assumes you have the modeling environment from last week ready.
+*   This assignment assumes you have the modeling environment from last exercise ready.
 
 ### (Not So) Indianapolis Motor Speedway (X)
 
